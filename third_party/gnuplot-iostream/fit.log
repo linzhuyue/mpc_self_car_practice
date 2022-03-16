@@ -1,0 +1,33 @@
+
+
+*******************************************************************************
+Tue Mar 15 14:20:44 2022
+
+
+FIT:    data read from '-'
+        format = z
+        x range restricted to [-2.00000 : 2.00000]
+        #datapoints = 8
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a + b*x + c*x*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.8004800000e+01   0.00e+00  1.40e+00    1.000000e+00   1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       1.40e-06    1.200000e-01   3.400000e-01   5.600000e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -4.62223e-33
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 0.12           
+b               = 0.34           
+c               = 0.56           

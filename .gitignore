@@ -1,0 +1,9 @@
+.vscode
+build
+tags
+.editorconfig
+.DS_Store
+notes
+tmp
+*.mp4
+cmake-build-debug

@@ -1,5 +1,6 @@
 # Model Predicted Control Practice For Learning
 ![alt text](./gif/animation_with_objective.gif)
+
 The purpose of this repository is mainly to deepen my understanding of MPC and trajectory optimization. I mainly focus on the control of the legged robot. Here, choosing automatic driving is mainly for learning. Relatively speaking, the control of the car model at low speed is relatively simple. Note: this repository mainly refers to the repository from(Thank you DhruvaKumar) [DhruvaKumar MPC](https://github.com/DhruvaKumar/model-predictive-control). Of course, I will add some contents that it did not do, and welcome to communicate this tech with me.
 
 The repo mainly includes:
